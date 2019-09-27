@@ -1,4 +1,5 @@
 [![crates.io](https://img.shields.io/crates/v/libyaml-sys.svg)](https://crates.io/crates/libyaml-sys)
+[![docs.rs](https://docs.rs/libyaml-sys/badge.svg)](https://docs.rs/libyaml-sys)
 
 # libyaml-sys
 
